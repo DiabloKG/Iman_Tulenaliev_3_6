@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Iman_Tulenaliev</string>
+    <string name="casillas_image">https://i.trbna.com/preset/wysiwyg/7/0c/b4df2260711ebb3b8d88e8b7aa0ca.jpeg</string>
+    <string name="bale_image">https://metaratings.ru/upload/iblock/cc2/cc2e0723e60fb665d0c125f8033dcfc2.jpg</string>
+    <string name="ibragimovic_image">https://cdn.yenicaggazetesi.com.tr/news/2021/04/230420210345423373378.jpg</string>
+    <string name="pirlo_image">https://cdn.givemesport.com/wp-content/uploads/2022/02/GettyImages-154015732-2048x1548.jpg</string>
+    <string name="neymar_image">https://www.desktopbackground.org/download/3840x2400/2014/04/09/744306_malaga-vs-barcelona-gerardo-martino-to-square-off-against-bernd_4256x2832_h.jpg</string>
+    <string name="benzema_image">https://www3.pictures.zimbio.com/gi/Karim+Benzema+Real+Madrid+v+Los+Angeles+Galaxy+HMzSo6JgPwrx.jpg</string>
+    <string name="ramires_image">https://miro.medium.com/max/1200/1*7QIsnmz75Wv20OgvBmrJNQ.jpeg</string>
+    <string name="messi_image">https://i.pinimg.com/originals/ac/fb/36/acfb364074b4a7e79cb5a62e7bc0b9e9.jpg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="messi_description">Лионе́ль Андре́с Ме́сси Куччитти́ни[a] (исп. Lionel Andrés Messi Cuccittini, испанское произношение: [ljoˈnel anˈdɾez ˈmesi] (Звук слушать); родился 24 июня 1987, Росарио, Аргентина) — аргентинский футболист, нападающий клуба «Пари Сен-Жермен», капитан сборной Аргентины. Олимпийский чемпион, чемпион Южной Америки, чемпион мира.</string>
+</resources>
