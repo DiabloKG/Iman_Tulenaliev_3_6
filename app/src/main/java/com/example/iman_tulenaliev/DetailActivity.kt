@@ -2,6 +2,7 @@ package com.example.iman_tulenaliev
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import com.example.iman_tulenaliev.databinding.ActivityDetailBinding
 
 class DetailActivity : AppCompatActivity() {
@@ -13,10 +14,12 @@ class DetailActivity : AppCompatActivity() {
         getData()
     }
 
+    @Suppress("DEPRECATION")
     private fun getData() {
-        if (intent.getStringExtra("d") != null) {
+        if (intent.getParcelableExtra<Footbalist>("footbalist") != null) {
             val bundle = Bundle()
-            bundle.putString("d", intent.getStringExtra("d"))
+            val footbalist = intent.getParcelableExtra<Footbalist>("footbalist")
+            bundle.putParcelable("footbalist", footbalist)
             val fragment = DetailFragment()
             fragment.arguments = bundle
             supportFragmentManager.beginTransaction().add(R.id.container_view, fragment).commit()
